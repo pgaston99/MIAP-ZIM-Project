@@ -31,7 +31,7 @@ Last updated: 2025-12-30
 
 ### Contributing
 
-You are encourgaged to experiment and contribute zim or warc files to this repository of online archiving resources. Bug fixes and or other additions are also welcome. To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) and add or modify a new block in `index.html`. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
+You are encourgaged to experiment and contribute zim or warc files to this repository of online archiving resources. Bug fixes and or other additions are also welcome. To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) and upload your file to `docs` or modify the `index.html`. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
 
 
 ## Source Projects
