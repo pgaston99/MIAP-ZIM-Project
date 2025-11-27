@@ -18,6 +18,8 @@ By compiling a URL source into an online-accessible format, zim may be a useful 
 
 ## Contributors
 
+### Who are we?
+
 We are Motion Image Archiving and Preservation (MIAP) students at NYU. During our studies, we became interested in the potential uses of zim for archivists and in promoting access to online tools. 
 
 * stp305-source (Jamie!) 
@@ -29,7 +31,7 @@ Last updated: 2025-12-30
 
 ## Contributing
 
-To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) and add or modify a new block in `index.html`. Then [submit a pull request](https://github.com/amiaopensource/       ffmprovisr/pulls) and the code will be reviewed and integrated. 
+To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) and add or modify a new block in `index.html`. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
 
 
 ## Source Projects
