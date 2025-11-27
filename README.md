@@ -29,12 +29,14 @@ We are Motion Image Archiving and Preservation (MIAP) students at NYU. During ou
 
 Last updated: 2025-12-30
 
-## Contributing
+### Contributing
 
-To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) and add or modify a new block in `index.html`. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
+You are encourgaged to experiment and contribute zim or warc files to this repository of online archiving resources. Bug fixes and or other additions are also welcome. To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) and add or modify a new block in `index.html`. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
 
 
 ## Source Projects
+
+### This project relies on the following resources:
 
 ### [warc](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.0/): Repository of warc format specifications
 ### [openZim](https://openzim.org/): MediaWiki for the openZim project
@@ -42,6 +44,7 @@ To contribute to this project directly clone this repository and create a new br
 ### [Kiwix](https://github.com/kiwix): Kiwix offline zim reader repository 
 ### [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/): Repository of useful FFmpeg command lines for archivists!
 ### [The Cable Bible](https://amiaopensource.github.io/cable-bible/): A Guide to Cables and Connectors Used for Audiovisual Tech  
+
 
 
 If you contribute a zim of an archiving resource to our repository, we will link to the original webpage here!
