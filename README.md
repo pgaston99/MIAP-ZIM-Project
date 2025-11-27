@@ -3,7 +3,7 @@
 * [Project-Description](https://github.com/hmr9162-droid/MIAP-ZIM-Project/blob/main/README.md#project-description)
 * [Why Zim?](https://github.com/hmr9162-droid/MIAP-ZIM-Project/blob/main/README.md#why-zim)
 * [Contributors](https://github.com/hmr9162-droid/MIAP-ZIM-Project/blob/main/README.md#contributors)
-* [Source Projects](Source-Projects)
+* [Source Projects](https://github.com/hmr9162-droid/MIAP-ZIM-Project/blob/main/README.md#source-projects)
 * [Zibliography](https://github.com/hmr9162-droid/MIAP-ZIM-Project/blob/main/README.md#zibliography)
 
 ## Project Description
@@ -33,14 +33,14 @@ To contribute to this project directly clone this repository and create a new br
 
 ## Source Projects
 
-[warc](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.0/): Repository of warc format specifications
-[openZim](https://openzim.org/): MediaWiki for the openZim project
-[openZim](https://github.com/openzim): Repository for zim tools 
-[Kiwix](https://github.com/kiwix): Kiwix offline zim reader repository 
-[FFmprovisr](https://amiaopensource.github.io/ffmprovisr/): Repository of useful FFmpeg command lines for archivists!
-[The Cable Bible](https://amiaopensource.github.io/cable-bible/): A Guide to Cables and Connectors Used for Audiovisual Tech  
+### [warc](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.0/): Repository of warc format specifications
+### [openZim](https://openzim.org/): MediaWiki for the openZim project
+### [openZim](https://github.com/openzim): Repository for zim tools 
+### [Kiwix](https://github.com/kiwix): Kiwix offline zim reader repository 
+### [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/): Repository of useful FFmpeg command lines for archivists!
+### [The Cable Bible](https://amiaopensource.github.io/cable-bible/): A Guide to Cables and Connectors Used for Audiovisual Tech  
 
-    If you contribute a zim of an archiving resource to our repository, we will link to the original webpage here!
+If you contribute a zim of an archiving resource to our repository, we will link to the original webpage here!
 
 ## Zibliography
 
