@@ -21,19 +21,19 @@
 
 The preservation of web resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. The `zim` format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, `zim` enables fulltext search; thus, any personal library can function like an offline search engine. 
 
-Together, the [Kiwix](https://github.com/kiwix) and [OpenZim](https://github.com/openzim) projects have utilized the format to make resources like Wikipedia, Project Gutenberg, Stack Exchange and Ask Ubuntu, accesible and searchable. These open source tools have led to many indvidual archive projects. In 2025, a `zim` of [cdc.gov](https://archive.org/details/www.cdc.gov_en_all_novid_2025-01) was contributed to Internet Archive. 
+Together, the [Kiwix](https://github.com/kiwix) and [OpenZim](https://github.com/openzim) projects have utilized the format to make resources like Wikipedia, Project Gutenberg, Stack Exchange and Ask Ubuntu, accesible and searchable. These open source tools have led to many indvidual archive projects. In 2025, a `zim` of [cdc.gov](https://archive.org/details/www.cdc.gov_en_all_novid_2025-01) was contributed to Internet Archive 🏛. 
  
 By compiling a URL source into an online-accessible format, `zim` may be particularly useful for archivists and librarians encountering:
 
-+ 🛜 little or no internet access 
-+ ⚡️ limited electricity (online browsing drains power!) 
-+ 🔥 disaster-related restrictions 
-+ 🚫 the censorship or deletion of online materials
++ little or no internet access 
++ limited electricity (online browsing drains power!) 
++ disaster-related restrictions 
++ the censorship or deletion of online materials
 
 Some other considerations include: 
 
-+ 💾 archival backups 
-+ 🔑 providing research or access copies of archived sites 
++ archival backups 
++ providing research or access copies of archived sites 
 
 ## Contributors
 
