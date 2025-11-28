@@ -46,8 +46,8 @@ You are encourgaged to experiment and contribute zim or warc files to this repos
 ### This project relies on the following resources:
 
 ### [Warc](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.0/): Repository of warc format specifications
-### [openZim](https://openzim.org/): MediaWiki for the openZim project
-### [openZim](https://github.com/openzim): Repository for zim tools 
+### [OpenZim](https://openzim.org/): MediaWiki for the openZim project
+### [OpenZim](https://github.com/openzim): Repository for zim tools 
 ### [Kiwix](https://github.com/kiwix): Kiwix offline zim reader repository 
 ### [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/): Repository of useful FFmpeg command lines for archivists!
 ### [The Cable Bible](https://amiaopensource.github.io/cable-bible/): A Guide to Cables and Connectors Used for Audiovisual Tech  
