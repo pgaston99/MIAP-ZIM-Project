@@ -6,7 +6,7 @@
 * [Why Zim?](#why-zim?)
 * [Contributors](#contributors)
 * [Source Projects](#source-projects)
-* [Zibliography](#zimliography)
+* [Zibliography](#zibliography)
 
 ## Project Description
 
@@ -53,7 +53,7 @@ You are encourgaged to experiment and contribute zim or warc files to this repos
 
 If you contribute a zim of an archiving resource to our repository, we will link to the original webpage here!
 
-## Zimliography
+## Zibliography
        
 Al-Khmisy, R., Hosman, L., & Nova, R. (2023). Curating an Offline Wikipedia for Schools in any Language: A Road Map. International Journal of Emerging Technologies in Learning (iJET), 18(21), 129–148. https://doi.org/10.3991/ijet.v18i21.44313
 
