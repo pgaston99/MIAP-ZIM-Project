@@ -76,3 +76,5 @@ Al-Khmisy, R., Hosman, L., & Nova, R. (2023). Curating an Offline Wikipedia for 
 
 Berlin, J., Kelly, M., Nelson, M. L., & Weigle, M. C. (2023). To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages. ACM Trans. Web, 17(4). https://doi.org/10.1145/3589206
 
+Brügger, Niels. Archiving Websites: General Considerations and Strategies. Aarhus, Denmark: The Centre for Internet Research, 2005. http://cfi.au.dk/fileadmin/www.cfi.au.dk/publikationer/archiving_underside/archiving.pdf
+
