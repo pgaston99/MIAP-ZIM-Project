@@ -28,13 +28,12 @@ By compiling a URL source into an online-accessible format, `zim` may be particu
 + 🛜 little or no internet access 
 + ⚡️ limited electricity (online browsing drains power!) 
 + 🔥 disaster-related restrictions 
-+ 🚫 the censorship or deletion of educational materials
++ 🚫 the censorship or deletion of online materials
 
 Some other considerations include: 
 
 + 💾 backups or long-term archives
-+ 🔑 providing research or access copies of archived sites
-+ 🧳 traveling without wi-fi  
++ 🔑 providing research or access copies of archived sites 
 
 ## Contributors
 
