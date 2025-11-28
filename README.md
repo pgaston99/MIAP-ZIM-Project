@@ -10,19 +10,23 @@
 
 ## Project Description
 
-Our project aims to hightlight the strengths and weaknesses of the zim container format, compared to .warc, the existing web archiving standard. By comparing key features, we may help inform users who have an interest in or need to archive a site as a zim file. 
+Our project aims to hightlight the strengths and weaknesses of the `zim` container format, compared to `warc`, the existing web archiving standard. By comparing key features, we may help inform archivists who have an interest in utilizing the `zim` format for their projects.
 
 
 ## Why Zim?
 
-By compiling a URL source into an online-accessible format, zim may be a useful tool for archivists with limited internet access or electricity (browsing drains power). Disaster planning for libraries and archives might include the preservation of certain online resources, like a Githib repositiory. The format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, the format enables fulltext search. An extensive library of zim resources in Kiwix (or other offline reader) can function like a offline search engine. 
+By compiling a URL source into an online-accessible format, `zim` may be a useful tool for archivists with limited internet access or electricity (browsing drains power). Disaster planning for libraries and archives might include the preservation of online resources, like a Github repositiory. 
+
+The format is highly compressed and lossless, preserving quality without occupying a ton of disk space. 
+
+Additionally, `zim` enables fulltext search. An extensive library of `zim` resources in Kiwix (or other offline reader) can function like a offline search engine. 
 
 
 ## Contributors
 
 ### Who are we?
 
-We are Motion Image Archiving and Preservation (MIAP) students at NYU. During our studies, we became interested in the potential uses of zim for archivists and in promoting access to online tools. 
+We are Motion Image Archiving and Preservation (MIAP) students at NYU. During our studies, we became interested in the potential uses of `zim` for archivists and in promoting access to online tools. 
 
 * stp305-source (Jamie!) 
 * (put Phoenyx's username here) (Phoenyx!)
@@ -55,7 +59,7 @@ If you contribute a zim of an archiving resource to our repository, we will link
 
 Below are some projects which utilize zim to increase the accesibility of web content: 
         
-Al-Khmisy, R., Hosman, L., & Nova, R. (2023). Curating an Offline Wikipedia for Schools in any Language: A Road Map. International Journal of Emerging Technologies in Learning (iJET), 18(21), 129–148. https://doi.org/10.3991/          ijet.v18i21.44313
+Al-Khmisy, R., Hosman, L., & Nova, R. (2023). Curating an Offline Wikipedia for Schools in any Language: A Road Map. International Journal of Emerging Technologies in Learning (iJET), 18(21), 129–148. https://doi.org/10.3991/ijet.v18i21.44313
 
 Below are some projects which describe important challenges or considerations for web archiving: 
 
