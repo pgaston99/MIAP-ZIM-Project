@@ -1,4 +1,4 @@
-<img src="images/zim_file_white.png" width="100">
+
 
 # MIAP-ZIM-Project 
 
