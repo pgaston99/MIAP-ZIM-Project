@@ -1,2 +1,80 @@
-# MIAP-ZIM-Project
-An exploration of ZIM for digital preservation and archiving 
+<img src="images/zim_file_white.png" width="105">
+
+# MIAP-ZIM-Project 
+
+* [Project Description](#project-description)
+* [Why Zim?](#why-zim?)
+* [Contributors](#contributors)
+* [Source Projects](#source-projects)
+* [Zibliography](#zibliography)
+
+## Project Description
+
++ Our project aims to hightlight the strengths and weaknesses of the `zim` container format, compared to `warc`, the existing web archiving standard. 
+
++ We've run crawls on [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/), an FFmpeg resource, and archived the site as both ffmprovisr.zim and ffmprovisr.warc.
+
++ By comparing key features, we may help inform archivists who have an interest in utilizing the `zim` format for their projects. 
+
+
+## Why Zim?
+
+The preservation of web resources, like a Github repository, for offline access may prove to be an important skill for digital archivists. The `zim` format is highly compressed and lossless, preserving quality without occupying a ton of disk space. Additionally, `zim` enables fulltext search; thus, any personal library can function like an offline search engine. 
+
+Together, the [Kiwix](https://github.com/kiwix) and [OpenZim](https://github.com/openzim) projects have utilized the format to make resources like Wikipedia, Project Gutenberg, Stack Exchange and Ask Ubuntu, accesible and searchable. These open source tools have led to many indvidual archive projects. In 2025, a `zim` of [cdc.gov](https://archive.org/details/www.cdc.gov_en_all_novid_2025-01) was contributed to Internet Archive 🏛. 
+ 
+By compiling a URL source into an online-accessible format, `zim` may be particularly useful for archivists and librarians encountering:
+
++ little or no internet access 
++ limited electricity (online browsing drains power!) 
++ disaster-related restrictions 
++ the censorship or deletion of online materials
+
+Some other considerations include: 
+
++ archival backups 
++ providing research or access copies of archived sites 
+
+## Contributors
+
+### Who are we?
+
+* stp305-source (Jamie) 
+* (put Phoenyx's username here) (Phoenyx)
+* hmr9162-droid (Hayla)  
+
+We are Motion Image Archiving and Preservation (MIAP) students at NYU. During our studies, we became interested in the potential uses of `zim` for archivists and in promoting access to online tools. 
+  
+
+### Contributing
+
+You are encouraged to experiment and contribute zim or warc files to this repository of archiving resources! 
+
+Bug fixes and or other additions are also welcome. To contribute to this project directly clone this repository and create a new branch (`git checkout -b your-branch-name`) then upload your file to `docs` or modify the `index.html`. Then [submit a pull request](https://github.com/hmr9162-droid/MIAP-ZIM-Project) and the code will be reviewed and integrated. 
+
+
+## Source Projects
+
+### This project relies on the following resources:
+
+### [Warc](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.0/): Repository of warc format specifications
+### [OpenZim](https://openzim.org/): MediaWiki for the openZim project
+### [OpenZim](https://github.com/openzim): Repository for zim tools 
+### [Kiwix](https://github.com/kiwix): Kiwix offline zim reader repository 
+### [FFmprovisr](https://amiaopensource.github.io/ffmprovisr/): Repository of useful FFmpeg command lines for archivists!
+### [The Cable Bible](https://amiaopensource.github.io/cable-bible/): A Guide to Cables and Connectors Used for Audiovisual Tech  
+
+
+
+If you contribute a zim of an archiving resource to our repository, we will link to the original webpage here!
+
+## Zibliography
+
+📚 A collection of `zim` literature and related web archiving research:
+       
+Al-Khmisy, R., Hosman, L., & Nova, R. (2023). Curating an Offline Wikipedia for Schools in any Language: A Road Map. International Journal of Emerging Technologies in Learning (iJET), 18(21), 129–148. https://doi.org/10.3991/ijet.v18i21.44313
+
+Berlin, J., Kelly, M., Nelson, M. L., & Weigle, M. C. (2023). To Re-experience the Web: A Framework for the Transformation and Replay of Archived Web Pages. ACM Trans. Web, 17(4). https://doi.org/10.1145/3589206
+
+Brügger, Niels. Archiving Websites: General Considerations and Strategies. Aarhus, Denmark: The Centre for Internet Research, 2005. http://cfi.au.dk/fileadmin/www.cfi.au.dk/publikationer/archiving_underside/archiving.pdf
+
