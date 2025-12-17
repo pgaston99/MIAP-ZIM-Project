@@ -55,7 +55,7 @@ Bug fixes and or other additions are also welcome. To contribute to this project
 
 ## Source Projects
 
-### This project relies on the following resources:
+### This project utilizes the following resources:
 
 ### [Warc](https://iipc.github.io/warc-specifications/specifications/warc-format/warc-1.0/): Repository of warc format specifications
 ### [OpenZim](https://openzim.org/): MediaWiki for the openZim project
